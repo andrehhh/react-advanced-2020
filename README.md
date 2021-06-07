@@ -22,7 +22,7 @@
 ### 3. Conditional Rendering
   * Short circuits ( `&&` , `||` )
   * Ternary Operator ( `? :` )
-  * Using the above points to decide whether a component is rendered or not by the value of 'show'
+  * Using the above techniques to decide whether a component is rendered or not by the value of 'show'
 
 <br />
 
