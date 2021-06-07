@@ -4,6 +4,7 @@ const Error = () => {
   return (
     <div>
       <h1>Error Page</h1>
+      <Link to='/'>Back to Home</Link>
     </div>
   );
 };
